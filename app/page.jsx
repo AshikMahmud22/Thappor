@@ -70,7 +70,7 @@ export default function Home() {
     <main className="flex min-h-screen items-center justify-center px-4 py-6 sm:px-6 lg:px-8">
       <div className="flex w-full max-w-3xl flex-col items-center gap-7 text-center lg:gap-10">
         <h1 className="text-xl font-extrabold leading-snug sm:text-3xl lg:text-4xl">
-          ৬ বছর বয়সী বাচ্চাকে চুমু খাইতে চাওয়ায় তার বাবা অপরদিকে যে চর টা মেরেছে সেটা কি ঠিক হইয়েছে?
+          ৬ বছর বয়সী বাচ্চাকে চুমু খাইতে চাওয়ায় তার বাবা অপরাধীকে যে চড়টা মেরেছে সেটা কি ঠিক হয়েছে?
         </h1>
 
         {!data.voted && (
